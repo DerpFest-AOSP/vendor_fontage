@@ -158,4 +158,7 @@ PRODUCT_PACKAGES += \
     ClockFontMonbijouxClownpieceOverlay \
     ClockFontRoundheadsOverlay \
     ClockFontNewYork-HeavyOverlay \
-    ClockFontNewYork-SemiboldOverlay
+    ClockFontNewYork-SemiboldOverlay \
+    ClockFontIOSOverlay \
+    ClockFontHerculesOverlay \
+    ClockFontSlimOverlay
