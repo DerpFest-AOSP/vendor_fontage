@@ -20,7 +20,6 @@ PRODUCT_PACKAGES += \
     FontFantasqueSansMonoOverlay \
     FontFleuronOverlay \
     FontFinlandicaOverlay \
-    FontGoogleSansOverlay \
     FontGothamonoOverlay \
     FontGravityOverlay \
     FontIgnazioTextOverlay \
