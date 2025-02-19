@@ -160,4 +160,5 @@ PRODUCT_PACKAGES += \
     ClockFontNewYork-SemiboldOverlay \
     ClockFontIOSOverlay \
     ClockFontHerculesOverlay \
-    ClockFontSlimOverlay
+    ClockFontSlimOverlay \
+    ClockFontJetBrainsMonoOverlay
