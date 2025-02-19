@@ -753,6 +753,52 @@
     </family>
     <alias name="op-sans-medium" to="op-sans" weight="500" />
 
+    <!-- JetBrains Mono -->
+    <family customizationType="new-named-family" name="jb-mono">
+      <font weight="100" style="normal">JetBrainsMono-Regular.ttf
+        <axis tag="wght" stylevalue="100" />
+      </font>
+      <font weight="300" style="normal">JetBrainsMono-Regular.ttf
+        <axis tag="wght" stylevalue="250" />
+      </font>
+      <font weight="400" style="normal">JetBrainsMono-Regular.ttf
+        <axis tag="wght" stylevalue="400" />
+      </font>
+      <font weight="500" style="normal">JetBrainsMono-Regular.ttf
+        <axis tag="wght" stylevalue="550" />
+      </font>
+      <font weight="700" style="normal">JetBrainsMono-Regular.ttf
+        <axis tag="wght" stylevalue="750" />
+      </font>
+      <font weight="900" style="normal">JetBrainsMono-Regular.ttf
+        <axis tag="wght" stylevalue="900" />
+      </font>
+    </family>
+    <alias name="jb-mono-medium" to="jb-mono" weight="500" />
+
+    <!-- JetBrains Mono NL (no ligatures) -->
+    <family customizationType="new-named-family" name="jb-mono-nl">
+      <font weight="100" style="normal">JetBrainsMonoNL-Regular.ttf
+        <axis tag="wght" stylevalue="100" />
+      </font>
+      <font weight="300" style="normal">JetBrainsMonoNL-Regular.ttf
+        <axis tag="wght" stylevalue="250" />
+      </font>
+      <font weight="400" style="normal">JetBrainsMonoNL-Regular.ttf
+        <axis tag="wght" stylevalue="400" />
+      </font>
+      <font weight="500" style="normal">JetBrainsMonoNL-Regular.ttf
+        <axis tag="wght" stylevalue="550" />
+      </font>
+      <font weight="700" style="normal">JetBrainsMonoNL-Regular.ttf
+        <axis tag="wght" stylevalue="750" />
+      </font>
+      <font weight="900" style="normal">JetBrainsMonoNL-Regular.ttf
+        <axis tag="wght" stylevalue="900" />
+      </font>
+    </family>
+    <alias name="jb-mono-nl-medium" to="jb-mono-nl" weight="500" />
+
     <family customizationType="new-named-family" name="rosemary">
         <font weight="300" style="normal">Rosemary-Regular.ttf</font>
     </family>
