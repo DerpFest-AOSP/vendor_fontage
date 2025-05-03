@@ -39,7 +39,7 @@ PRODUCT_PACKAGES += \
     FontQTVagaRoundOverlay \
     FontReemKufiOverlay \
     FontRobotoOverlay \
-    FontRouterGothicNarrowOverlay \
+    FontRoundedGothicNarrowOverlay \
     FontScientificaOverlay \
     FontSofiaSansOverlay \
     FontUniversalisRegOverlay \
