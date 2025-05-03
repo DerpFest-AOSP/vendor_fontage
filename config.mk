@@ -36,7 +36,7 @@ PRODUCT_PACKAGES += \
     FontPanamericanaOverlay \
     FontPisselOverlay \
     FontPTSansMonoOverlay \
-    FontQTVagaroundOverlay \
+    FontQTVagaRoundOverlay \
     FontReemKufiOverlay \
     FontRobotoOverlay \
     FontRouterGothicNarrowOverlay \
