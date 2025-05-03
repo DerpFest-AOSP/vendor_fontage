@@ -15,7 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "FontFantasqueMonoOverlay",
-    theme: "FontFantasqueMono",
+    name: "FontFantasqueSansMonoOverlay",
+    theme: "FontFantasqueSansMono",
     product_specific: true,
 }
